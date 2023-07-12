@@ -2,7 +2,7 @@
 
 Local Notifications/Heads Up Notifications and FCM Push notifications implementation
 
-<img src="C:\Users\Jayesh.Pathak\Desktop\fcm_notification.gif" width="300" height="200">
+<img src="https://github.com/jayesh-github/fcm_notifications/blob/main/fcm_notification.gif" width="300" height="200">
 
 ## Getting Started
 
