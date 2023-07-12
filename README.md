@@ -7,6 +7,7 @@ Local Notifications/Heads Up Notifications and FCM Push notifications implementa
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+![](fcm_notification.gif)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
